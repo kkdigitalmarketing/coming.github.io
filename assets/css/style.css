@@ -4887,7 +4887,7 @@ Error Area Style
 Coming Soon Style
 ======================================================*/
 .coming-soon-area {
-  height: 125vh;
+  height: 150vh;
   vertical-align: middle;
   position: relative;
 }
@@ -4915,7 +4915,7 @@ Coming Soon Style
   margin-bottom: 20px;
 }
 .coming-soon-area .coming-soon h1 {
-  font-size: 40px;
+  font-size: 35px;
   font-weight: 700;
   margin-bottom: 20px;
   color: #070707;
@@ -4926,17 +4926,17 @@ Coming Soon Style
 }
 .coming-soon-area .coming-soon .list ul li {
   margin: 0 20px;
-  font-size: 36px;
+  font-size: 25px;
   font-weight: 700;
-  height: 100px;
-  width: 100px;
+  height: 70px;
+  width: 70px;
   border: 6px double #ddc303;
-  border-radius: 50px 0px 0px 0px;
-  margin-bottom: 30px;
+  border-radius: 20px 0px 20px 0px;
+  margin-bottom: 20px;
   color: #000000;
 }
 .coming-soon-area .coming-soon .list ul li span {
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 500;
   color: #a99606;
 }
